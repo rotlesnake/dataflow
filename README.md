@@ -1,4 +1,9 @@
-# mycomponents
+# Визуальный редактор логики (диаграмм)
+
+### Компонент
+
+![](./screenshots.png)
+
 
 ## Project setup
 ```
