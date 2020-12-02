@@ -41,6 +41,10 @@
     "rules": {
       "no-console": "off",
       "vue/no-unused-components": "off",
+      "no-undef": "off",
+      "no-empty": "off",
+      "no-prototype-builtins": "off",
+      "no-unused-finally": "off",
       "no-unused-vars": "off",
       "no-unused-components": "off",
       "no-unused-labels": "off"
