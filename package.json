@@ -45,6 +45,10 @@
       "no-empty": "off",
       "no-prototype-builtins": "off",
       "no-unused-finally": "off",
+      "no-unsafe-finally": "off",
+      "no-unexpected-multiline": "off",
+      "no-constant-condition": "off",
+      "no-extra-semi": "off",
       "no-unused-vars": "off",
       "no-unused-components": "off",
       "no-unused-labels": "off"
