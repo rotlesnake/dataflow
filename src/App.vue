@@ -26,24 +26,24 @@ export default {
     data() {
         return {
             blocks: [
-				{
-					id: 1,
+                {
+                    id: 1,
                     family: 'Формы',
                     name: 'stage_solution',
                     title: 'Согласование',
                     width: 300,
                     fields: [],
                     inputs: [
-						{name: '',label: 'Открыть форму',type: 'event',color: '#00ff00',shape: 'circle'},
+                        {name: '',label: 'Открыть форму',type: 'event',color: '#00ff00',shape: 'circle'},
                         {name: '',label: 'Поля ввода данных',type: 'field',color: '#0000ff',shape: 'square'},
                     ],
                     outputs: [
-						{name: '',label: 'Согласовано',type: 'event',color: '#00ff00'},
+                        {name: '',label: 'Согласовано',type: 'event',color: '#00ff00'},
                         {name: '',label: 'Отклонено',type: 'event',color: '#ff0000'},
                     ]
                 },
                 {
-					id: 2,
+                    id: 2,
                     family: "Поля ввода",
                     name: "field_enter_string",
                     title: "Ввод строки",
@@ -51,8 +51,8 @@ export default {
                     fields: [],
                     inputs: [],
                     outputs: [
-						{label: "Ввод поля",type: 'field',color: '#0000ff',shape: 'square'},
-					],
+                        {label: "Ввод поля",type: 'field',color: '#0000ff',shape: 'square'},
+                    ],
                 },
             ],
             scene: {
