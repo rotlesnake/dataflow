@@ -18,6 +18,7 @@
 <script>
 import dataflow from './components/dataflow.js'
 import './components/dataflow.css'
+import '@mdi/font/css/materialdesignicons.min.css'
 
 export default {
     components: {
